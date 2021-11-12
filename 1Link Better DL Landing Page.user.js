@@ -8,7 +8,7 @@
 //@grant       none
 //@downloadURL https://github.com/AdventGit/Userscripts-Things/raw/main/1Link%20Better%20DL%20Landing%20Page.user.js
 //==/UserScript==
-(function(){
+(()=>{
   'use strict';
   const curLoc=window.location.href;
   if(!curLoc.includes('index.php')&&!curLoc.includes('php?id=')){window.location.href='https://1link.club/m1.php?id='+curLoc.split('.club/')[1]}
