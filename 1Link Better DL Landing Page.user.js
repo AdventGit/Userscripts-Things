@@ -6,7 +6,7 @@
 //@author Advent
 //@match *://1link.club/*
 //@grant none
-//@downloadURL https://raw.githubusercontent.com/AdventGit/Userscripts-Things/master/1Link Better DL Landing Page.user.js
+//@downloadURL https://github.com/AdventGit/Userscripts-Things/raw/main/1Link%20Better%20DL%20Landing%20Page.user.js
 // ==/UserScript==
 (function(){
   'use strict';
